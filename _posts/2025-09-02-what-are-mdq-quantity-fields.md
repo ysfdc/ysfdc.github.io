@@ -10,7 +10,7 @@ As mentioned in previous posts, MDQ is a special breed of product. Many function
 
 <figure>
 
-![](/images/image-5.png)
+<img src="/images/image-5.png" alt="">
 
 <figcaption>
 
@@ -24,7 +24,7 @@ The Quantity field behaves as expected on the initial quote; you can see this by
 
 <figure>
 
-![](/images/image-7.png)
+<img src="/images/image-7.png" alt="">
 
 <figcaption>
 
@@ -38,7 +38,7 @@ Once on the Contract record and looking at the Subscription records, you will st
 
 <figure>
 
-![](/images/image-8.png)
+<img src="/images/image-8.png" alt="">
 
 <figcaption>
 
@@ -52,7 +52,7 @@ Prior to making any modifications to the Renewal Quote (which was auto-generated
 
 <figure>
 
-![](/images/image-10.png)
+<img src="/images/image-10.png" alt="">
 
 <figcaption>
 
@@ -66,7 +66,7 @@ After making some modifications here, both on the segmented and non-segmented pr
 
 <figure>
 
-![](/images/image-12.png)
+<img src="/images/image-12.png" alt="">
 
 <figcaption>
 
