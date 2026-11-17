@@ -10,14 +10,14 @@ Dreamforce stands as Salesforce's premier event, delivering a memorable experien
 The annual Dreamforce conference by Salesforce occurred from September 12–14, 2023. It boasted over [1,500 sessions, attracted 40,000 in-person attendees](https://www.spiceworks.com/tech/big-data/articles/dreamforce-2023-highlights/), and drew a global online viewership in the millions, distinguishing itself as the year's largest AI gathering.
 
   
-![](/images/GVjxbIrZtq8TZl9bftUk1JRZel9juOdW2vI914n3fiImGm-n1EzsTGrbohAzWnYxLQxygfYL2s8Lpzlx8WL6f78K4U0UDRo1ktOOzyzn2AaOGYQDFHl_B0JLUakcgwql4XYjajwSerknbX26oyHmJeM)  
+<img src="/images/GVjxbIrZtq8TZl9bftUk1JRZel9juOdW2vI914n3fiImGm-n1EzsTGrbohAzWnYxLQxygfYL2s8Lpzlx8WL6f78K4U0UDRo1ktOOzyzn2AaOGYQDFHl_B0JLUakcgwql4XYjajwSerknbX26oyHmJeM" alt="">  
 Image Source: Salesforce.com: [Dreamforce is a place of discovery. Come see the future.](https://www.salesforce.com/dreamforce/why-attend/)
 
 Here comes the low-key fact of the year — AI was the event's superstar. Whether crafting on-point sales emails or foreseeing customer service snags for key clients, Salesforce's generative AI proved it's ready to boost every business facet.
 
 The IT industry must adapt because it is situated at the intersection of growing technology, changing financial environments, and societal changes. Business requirements regularly change as a result of the increasing speed of technological progress. The customer feels change at the same time, frequently impacted by cultural changes and financial elements. Therefore, the IT sector not only has the choice to adapt but also has a strong need to do so in order to stay up with these complex changes.
 
-**![](/images/xH1VlDGSvMHA1noDqjkm0vbO8GDZwcdLJU5OA6_um24es-laX5pu-0qNXF-XcJ0wLl7K5K_1SxB4WCcVwY5yyafWlgREkYfZIXLbVOn-IPJ3uOE-ZNfTrZgPUWVQ13kqffhsBJbyXduxhhv0LgEcQmo)**
+**<img src="/images/xH1VlDGSvMHA1noDqjkm0vbO8GDZwcdLJU5OA6_um24es-laX5pu-0qNXF-XcJ0wLl7K5K_1SxB4WCcVwY5yyafWlgREkYfZIXLbVOn-IPJ3uOE-ZNfTrZgPUWVQ13kqffhsBJbyXduxhhv0LgEcQmo" alt="">**
 
 Image Source: Salesforce Research Report: [**3rd Edition State of IT Report**](https://www.salesforce.com/resources/research-reports/state-of-it/)
 
@@ -29,7 +29,7 @@ According to the [Salesforce AI Research](https://www.salesforce.com/eu/blog/201
 
 Salesforce's new Einstein 1 platform is a big step in adding Salesforce AI tools to customer management. Built on Salesforce’s metadata, it's designed for anyone using Salesforce to bring smart automation into their work.
 
-![](/images/aRcq0DmxVugjKKHaqQnr_0km87gUKN6H1QFEnMuUywvdrCnrJIhckpYM9e1N8j5STPt3cATcjUuivyigsNxImRgoh2KWjIoTVegEti3wLct10MVT5Icjdi4B-Wu8EeJq7Vtf6RyR9Q6ubGb-GbVttAg)
+<img src="/images/aRcq0DmxVugjKKHaqQnr_0km87gUKN6H1QFEnMuUywvdrCnrJIhckpYM9e1N8j5STPt3cATcjUuivyigsNxImRgoh2KWjIoTVegEti3wLct10MVT5Icjdi4B-Wu8EeJq7Vtf6RyR9Q6ubGb-GbVttAg" alt="">
 
 Image Source: Forbes, [Salesforce Leans On Enterprise Data With The Einstein 1 AI Platform](https://www.forbes.com/sites/moorinsights/2023/09/27/salesforce-leans-on-enterprise-data-with-the-einstein-1-ai-platform/?sh=2f78744410bd)
 
@@ -55,20 +55,20 @@ Einstein Copilot Studio is a special part of the Salesforce CRM. It lets you cre
 
 **Salesforce Einstein Copilot Studio offers a trilogy of powerhouse features:**
 
-**![](/images/LeqR84DIPopxrb4CNuP039uOaLex5XTukrxL-4Ogk3LhKWFxre4owZe_1x-eLGtldZQ1pqlvF1Nu8jSwc9zrRVYnc6D7zEKcTuvf2jPZZ2ENjm8AogVeRW0vCxodbDuO3PBtwpyx4krUFRPgfXXkCPA)**
+**<img src="/images/LeqR84DIPopxrb4CNuP039uOaLex5XTukrxL-4Ogk3LhKWFxre4owZe_1x-eLGtldZQ1pqlvF1Nu8jSwc9zrRVYnc6D7zEKcTuvf2jPZZ2ENjm8AogVeRW0vCxodbDuO3PBtwpyx4krUFRPgfXXkCPA" alt="">**
 
 Image Source: Salesforce, [Generative AI experiences start with a prompt.](https://www.salesforce.com/products/ai-prompt-builder/) 
 
 **Prompt Builder:** This handy utility lets you create, test, and deploy AI-driven prompts to suit your company's unique style with no coding degree required. Say you're in marketing and want a custom message and a special discount tailored to your customer's past buying habits and locale. Well, Einstein Copilot gets to work and churns out bespoke messages that groove with the customer’s tastes, shopping history, and where they call home. And here's the kicker: Unlike other tools that make you jump through hoops to get everything integrated, Prompt Builder offers a low-fuss, effective way to insert AI prompts into any CRM workflow. All while keeping data secure, thanks to the Einstein Trust Layer.
 
   
-![](/images/X7hIuUe81y_C_8QN6daZdv5y2_MhOxtYCARbx2v2YbNOfVgaoMv3A-b1a5NXI_90BCdtd_xP8nUF4cRRzx65LZokJhbD6ZjF3PXWK1Jx39KCaKBcj9s0SIOJMdRz4e4bF_a05HAEMGjts5CrkqjsLKU)  
+<img src="/images/X7hIuUe81y_C_8QN6daZdv5y2_MhOxtYCARbx2v2YbNOfVgaoMv3A-b1a5NXI_90BCdtd_xP8nUF4cRRzx65LZokJhbD6ZjF3PXWK1Jx39KCaKBcj9s0SIOJMdRz4e4bF_a05HAEMGjts5CrkqjsLKU" alt="">  
 Image Source: Salesforce, [Generative AI experiences start with a prompt.](https://www.salesforce.com/products/ai-prompt-builder/)
 
 **Skills Builder:** Next up, this feature turns you into a virtual AI craftsman. Create AI actions aimed at achieving specific objectives. Consider you need a “Competitor Analysis” skill to prepare for a meeting. This skill dives into current market metrics, reviews sales data, and even sends API calls to gather more information. The result? A sweeping overview of the competition that gets you prepped and primed for that big meeting. You just have to cue Einstein Copilot, which picks that skill to offer you business wisdom.
 
   
-![](/images/yQN4DV_OrPPKC-TUjmrLyjkByUnnREwK1rvrU4W77E-Y00iTBEjhrdCCTHFHGISo2b7rge8H4lvxazVV5x8EVKlRPhq1hROTf99ef5lLoYyCiWuwFnn8Lf5jfWwDcF8f9DN6gpDJEIlmWVS762d6wRs)  
+<img src="/images/yQN4DV_OrPPKC-TUjmrLyjkByUnnREwK1rvrU4W77E-Y00iTBEjhrdCCTHFHGISo2b7rge8H4lvxazVV5x8EVKlRPhq1hROTf99ef5lLoYyCiWuwFnn8Lf5jfWwDcF8f9DN6gpDJEIlmWVS762d6wRs" alt="">  
 Image Source: Salesforce, [Generative AI experiences start with a prompt.  
 ](https://www.salesforce.com/products/ai-prompt-builder/)
 
@@ -76,7 +76,7 @@ Image Source: Salesforce, [Generative AI experiences start with a prompt.
 
 ### The Einstein Trust Layer
 
-![](/images/71Yo528N4IA04uQsvHZ-syZLj7T9VdF_KRiBa6fg-xNnDJAV4SsFsqrGHiYuPYuI7N10aRqa-QxSQaNm-tUeeIT_g0igj0plTy87lhYjbZZynMZjk7t-M11UeZmQMEvLCv-3tb_gy9d6A7bbNGsdVMo)
+<img src="/images/71Yo528N4IA04uQsvHZ-syZLj7T9VdF_KRiBa6fg-xNnDJAV4SsFsqrGHiYuPYuI7N10aRqa-QxSQaNm-tUeeIT_g0igj0plTy87lhYjbZZynMZjk7t-M11UeZmQMEvLCv-3tb_gy9d6A7bbNGsdVMo" alt="">
 
 Image Source: Salesforce, News & Insights: [Salesforce Launches Next Generation of Einstein, Bringing a Conversational AI Assistant to Every CRM Application and Customer Experience](https://www.salesforce.com/news/press-releases/2023/09/12/ai-einstein-news-dreamforce/)
 
@@ -85,7 +85,7 @@ The Einstein Trust Layer acts as Salesforce's secure firewall for AI capabilitie
 Besides data protection, this layer has an in-built toxicity detector. An LLM feature scrutinizes AI-generated content, flagging any elements that could pose a risk to the brand. This scoring mechanism enables companies to have increased confidence in the safety of their AI interactions.
 
   
-![](/images/B-TDVcyIpTjfBvvU3HFCc0WAWWuSpDwEQ4L09but0XIJFFmiCg8svo45LHNEWUlXIfzLu06Iqy4bpUqXsTAe-E19N2c9PCgNeuKcA3iCA1a0h3uA9zSM40StWBtx6fU9Y16V8JspG2IUKUshSxbu-no)  
+<img src="/images/B-TDVcyIpTjfBvvU3HFCc0WAWWuSpDwEQ4L09but0XIJFFmiCg8svo45LHNEWUlXIfzLu06Iqy4bpUqXsTAe-E19N2c9PCgNeuKcA3iCA1a0h3uA9zSM40StWBtx6fU9Y16V8JspG2IUKUshSxbu-no" alt="">  
 Image Source: Salesforce Research Report: [**3rd Edition State of IT Report**  
 ](https://www.salesforce.com/resources/research-reports/state-of-it/)
 
@@ -111,6 +111,6 @@ So, keep an eye on Salesforce's AI updates. They're making big steps forward and
 
 Author Bio:
 
-![](/images/dorian-sabitov-salesforce-developer.jpeg)
+<img src="/images/dorian-sabitov-salesforce-developer.jpeg" alt="">
 
 _Dorian Sabitov is a 4x Certified Salesforce Administrator and Developer with extensive experience in customizing Salesforce to the client's needs. He started his journey in IT as a CRM admin and kept his focus on the Salesforce ecosystem. He loves exploring new integrations in Salesforce and spotting alternative ways to optimize business processes inside the CRM. He is currently working as a full-time Salesforce developer and contributing content to the [SFApps.info](http://sfapps.info/) educational portal._

@@ -35,15 +35,15 @@ Industries CPQ, previously known as Vlocity CPQ, is Salesforce's industry [solut
 
 To understand order flow, you must first know about order capture. Order capture is the end-to-end process of taking customer orders and converting them into a format that can be processed by the order management system which is then propagated to other downstream systems such as billing and reporting. 
 
-## ![](/images/-HaKzs2uPNY1QK6oC9jWJQqDS__bkqF3eHop7vP84UcdKJCj_oD73mWHfHlQ-Sz2WBTABwUV-CsOy9YNDj8FOg7r40W7Y_6ENITwVD0AwnBJzqDp4KnvKU-djXTEkrXn5iJ8IGFWf8uG3myNUc6zxIGBg57IsLjSz8_35hfnt6gW_c3NHIWem6tE9xi8Og)
+## <img src="/images/-HaKzs2uPNY1QK6oC9jWJQqDS__bkqF3eHop7vP84UcdKJCj_oD73mWHfHlQ-Sz2WBTABwUV-CsOy9YNDj8FOg7r40W7Y_6ENITwVD0AwnBJzqDp4KnvKU-djXTEkrXn5iJ8IGFWf8uG3myNUc6zxIGBg57IsLjSz8_35hfnt6gW_c3NHIWem6tE9xi8Og" alt="">
 
 Order flow is a subprocess of order capture that provides a defined sequence of steps. These must be executed to capture contextual order information, usually by a sales rep. Orders are captured in each customer’s native format and then converted into the format required by the order management system. 
 
-![](/images/1thlJX8cA9VJ9qw8H6N-dRxalXlwRrmgplJn48UHMs41ki4jUh50y7t7ebvTNW7KNmRBy549G6hv3P1-Q_aPCMvhZNFlCgCMquSo5FJkZM1ENQNbOz_Wjn-WTxxLoo1NgBqL9wzEg_1VE9Zszt9OKGIbrE9Iug9huTxlW_0Sks9lnpSVV0bChzJomEmM9g)
+<img src="/images/1thlJX8cA9VJ9qw8H6N-dRxalXlwRrmgplJn48UHMs41ki4jUh50y7t7ebvTNW7KNmRBy549G6hv3P1-Q_aPCMvhZNFlCgCMquSo5FJkZM1ENQNbOz_Wjn-WTxxLoo1NgBqL9wzEg_1VE9Zszt9OKGIbrE9Iug9huTxlW_0Sks9lnpSVV0bChzJomEmM9g" alt="">
 
 In some cases, these two processes may be combined into one. For example, an e-commerce system may allow customers to place orders directly into the system without requiring any system integration or manual intervention. In this case, the order capture and order flow processes are combined into one. This method generally is not as flexible and customizable.
 
-## ![](/images/hEDv_J-vwJdkwmXyRMFK3z0PgZO1q4Bc9uZ7oSX1d5r69GJjY_8zn0HscWCBxsHQCksSkzi6-m9pB3dg0ZzajsrBK4XBelodP7-CrZwKGqSBKphwR5CfuJvDzREd3CNqXvqjLpGpKf2ngRi7y8CJCPZ0fsLeT9T4kC6458pR9dyVH9NmgnBQaX4ddpbx-Q)
+## <img src="/images/hEDv_J-vwJdkwmXyRMFK3z0PgZO1q4Bc9uZ7oSX1d5r69GJjY_8zn0HscWCBxsHQCksSkzi6-m9pB3dg0ZzajsrBK4XBelodP7-CrZwKGqSBKphwR5CfuJvDzREd3CNqXvqjLpGpKf2ngRi7y8CJCPZ0fsLeT9T4kC6458pR9dyVH9NmgnBQaX4ddpbx-Q" alt="">
 
 With Industries CPQ, you have the option to use the order management add on or use a separate order management system which might have already existed.
 
@@ -67,7 +67,7 @@ Industries CPQ is their solution for facilitating the generation of quotes and c
 
 With Industries CPQ you have the option to use either the order management add-on, or a separate order management system, which may have already existed. 
 
-![](/images/1aQ14uQMFoAzNM9Gwrho__VN_L7yRgLQ3LSZEUK0lfhW0nsmf5y9FrBYuzQoXquPU8l4yjsBz-ilZN5SugdljZWIUOd4UbEfAv02MJc4pwzr_GxYlQApMWwOtQWor8ZeVoskiSpBnQDD_r5xg-odiaPNPGwM4JZI-5ija-0rCQF8fpIY0GTsI6P2H5W0)
+<img src="/images/1aQ14uQMFoAzNM9Gwrho__VN_L7yRgLQ3LSZEUK0lfhW0nsmf5y9FrBYuzQoXquPU8l4yjsBz-ilZN5SugdljZWIUOd4UbEfAv02MJc4pwzr_GxYlQApMWwOtQWor8ZeVoskiSpBnQDD_r5xg-odiaPNPGwM4JZI-5ija-0rCQF8fpIY0GTsI6P2H5W0" alt="">
 
 **Author Bio** 
 

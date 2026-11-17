@@ -10,23 +10,23 @@ Finally! One of the things I have been asked for the most since I first took a j
 
 To use this, first, go to Setup --> Reports and Dashboards Settings  
 
-![](/images/2021-12-28_10-15-58.png)
+<img src="/images/2021-12-28_10-15-58.png" alt="">
 
 Enable Inline Editing for your org  
 
-![](/images/2021-12-28_10-16-16.png)
+<img src="/images/2021-12-28_10-16-16.png" alt="">
 
 Now go to a report with fields on that you can edit.
 
 Look for the pencil icon, similar to how you would edit in a list view, click it, and away you go!
 
-![](/images/2021-12-28_10-17-29.png)
+<img src="/images/2021-12-28_10-17-29.png" alt="">
 
-![](/images/2021-12-28_10-17-44.png)
+<img src="/images/2021-12-28_10-17-44.png" alt="">
 
 Don't forget to click the save button at the bottom after applying your changes.
 
-![](/images/2021-12-28_10-17-53.png)
+<img src="/images/2021-12-28_10-17-53.png" alt="">
 
 Please keep in mind that not only is this in Beta, but there is a list of fields [Salesforce](https://help.salesforce.com/s/articleView?id=release-notes.rn_rd_reports_inline_editing.htm&type=5&release=232) currently does not support inline editing on:
 

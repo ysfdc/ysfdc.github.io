@@ -24,7 +24,7 @@ Say you have a quote that has three products, a Subscription, a Hardware product
 
 In the scenario above, if you do not have Orders in the mix, you are going to need to rely on your Sales Rep to know the dates for everything while building out the Quote so that the Start and End Dates will be accurate on the Contract and Subscription Lines (or Contract Line Items in Service). In the majority of cases, though, the Sales Reps do not know this enough. So instead, a provisioning department handles this only after the Opportunity has been Closed Won and other processes kicked off. As such, this is where Orders come in.
 
-![](/images/blank-diagram.png)
+<img src="/images/blank-diagram.png" alt="">
 
 You can split this Quote into two different Orders, one that is just the Subscription product and one that contains both the Hardware and the Support products. By doing so, you can change the Start Date of the Order with the Hardware at the point it is provisioned, and that will automatically adjust the relevant Order Product dates. This helps because when that Order is Contracted, the dates will have been appropriately changed, the Contract will have the correct information, and the price will still be for the same amount of "time" initially purchased. So, regardless of whether the customer bought the product on June 1, but it didn't provision till August 1, they can still have it for the entire year term.
 

@@ -12,7 +12,7 @@ All of the below settings are in the App Permissions in the Sales section:
 
 <figure>
 
-![](/images/2022-07-06_13-31-27.png)
+<img src="/images/2022-07-06_13-31-27.png" alt="">
 
 <figcaption>
 

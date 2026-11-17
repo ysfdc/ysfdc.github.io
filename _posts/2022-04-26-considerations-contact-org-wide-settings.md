@@ -9,7 +9,7 @@ When setting up your Salesforce instance, it is important to consider your shari
 
 <figure>
 
-![](/images/2021-12-26_10-36-20.png)
+<img src="/images/2021-12-26_10-36-20.png" alt="">
 
 <figcaption>
 
@@ -27,8 +27,8 @@ It is possible to have Contacts set to Private but Accounts not.
 
 If you are considering setting your Account to Private, plan to create sharing rules for both Contacts and Opportunities.
 
-![](/images/2021-12-26_10-45-25.png)
+<img src="/images/2021-12-26_10-45-25.png" alt="">
 
 If you have both internal sharing and external sharing, your external sharing can never be greater than your internal sharing.
 
-![](/images/2021-12-26_10-35-34.png)
+<img src="/images/2021-12-26_10-35-34.png" alt="">

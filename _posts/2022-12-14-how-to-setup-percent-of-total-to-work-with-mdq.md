@@ -9,7 +9,7 @@ Recently, an acquaintance of mine, Rodrigo Crespo, discovered a funky issue with
 
 **Oddity number 1 - Pricing on a new Quote:**
 
-![](/images/2022-04-12_12-16-32.png)
+<img src="/images/2022-04-12_12-16-32.png" alt="">
 
 In the image above, I have a Percent of the Total product that can be segmented. It is set based on the Multidimensional SKU's List Price. As you can see, in the segmented section, the total Price for the Percent of Total is $400 because it takes the percentage based on each segment and then adds it up.
 
@@ -17,12 +17,12 @@ On the bottom, you can see the same Percent of Total product as a non-segmented 
 
 **Oddity number 2 - Segmenting on an Amendment**
 
-![](/images/2022-04-12_12-24-13.png)
+<img src="/images/2022-04-12_12-24-13.png" alt="">
 
 Above is a picture of the amendment quote. You will see something critical missing from the previous image - the little wand icon that allows you to segment and desegment existing lines on an Amendment.
 
 Why is this important? Well, for the same reason as oddity number 1. Let's say that you had a non-MDQ product on your original quote and had the Percent of Total product as a non-segmented product, and then on the Amendment, go to add an MDQ product. That MDQ product will be segmentable because it is a net new line. However, your Percent of Total product will not be segmentable so you could end up with incorrect pricing.
 
-![](/images/2022-04-12_12-33-57.png)
+<img src="/images/2022-04-12_12-33-57.png" alt="">
 
 The rule of thumb is that if you have a Percent of Total products that are segmentable and related to MDQ products, you should always segment them on the original quote.

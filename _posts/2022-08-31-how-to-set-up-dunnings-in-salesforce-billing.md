@@ -19,21 +19,21 @@ https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00
 
 Step 3: Time for the real stuff. Go to the Collections Management App and go to the Dunnings Method tab
 
-![](/images/image.png)
+<img src="/images/image.png" alt="">
 
 On the Dunnings tab click New and then give the Dunnings Method a name. Typically this might be Basic or Standard and then VIP or At Risk. This will be highly dependent on what your Collections team needs.
 
-![](/images/image-1.png)
+<img src="/images/image-1.png" alt="">
 
 Step 4: Now we need to create activities for the Dunnings Method. From the Related tab from the Dunning Method above click new in the Dunnings Activity.  
 
-![](/images/image-2.png)
+<img src="/images/image-2.png" alt="">
 
 Give the Activity a meaningful name for what the activity will be.
 
 The Activity Subject, sticking strictly with what comes out of the box, will be one of the following:  
 
-![](/images/image-3.png)
+<img src="/images/image-3.png" alt="">
 
 This will become the subject of the task created for the Collections Agent (we shall see that soon).
 
@@ -41,28 +41,28 @@ Lastly give it an Offset Days value - this is a value based on the Collections P
 
 For my example, I have three activities, as you can see here:  
 
-![](/images/image-4.png)
+<img src="/images/image-4.png" alt="">
 
 Step 5: Start making the Dunnings Methods applicable in the real world. To do this, we need to update the fields that were added to the account in Step 2. 
 
-![](/images/image-5.png)
+<img src="/images/image-5.png" alt="">
 
 On the Account you need to set which Dunnings Method will apply, who will be the Collections Agent, and who the Bill To Contact will be. These fields are required for the out-of-the-box triggers to work.
 
 Step 6: Generating a Collections Plan. A Collections Plan is a record that applies the activities associated with the Dunnings Method and assigns them to the Collections Agent to take action on. To trigger this creation, set the Collections Status field on the Account to In Collections. If you have a Collections Plan Date, it will use that as the start date, else it will use today as the start date.
 
-![](/images/image-6.png)
+<img src="/images/image-6.png" alt="">
 
 In the screenshot above, you can see all of the information we previously filled out come into play. The fields pulled from the Account information and the Activity tab on the right show the activities we created and when they were due based on the start date of the Collection plan.
 
 From this point, the Collections Agent can complete their tasks and close out the Collections Plan. Changing the status on the Collections Plan does not automatically change the status.  
 
-![](/images/image-7.png)
+<img src="/images/image-7.png" alt="">
 
 The next time the Account goes back for collections, set the Collections Status again on the Account to In Collections and it will make another Collections Plan.
 
 After you have been using the package for a while, you will be able to start reporting on the behavior of the different accounts. The package comes with out-of-the-box reports and dashboards that can be a good place to start.
 
-![](/images/image-8.png)
+<img src="/images/image-8.png" alt="">
 
 That's it for the out-of-the-box functionality. It is pretty sophisticated for a free package. However, it leaves much room for improvement with the addition of automation.

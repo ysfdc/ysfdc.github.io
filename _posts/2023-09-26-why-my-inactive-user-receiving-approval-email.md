@@ -17,7 +17,7 @@ Example:
 
 <figure>
 
-![](/images/2023-05-26_13-59-49-1.png)
+<img src="/images/2023-05-26_13-59-49-1.png" alt="">
 
 <figcaption>
 
@@ -29,7 +29,7 @@ Group view before the User (Sia) is deactivated
 
 <figure>
 
-![](/images/2023-05-26_14-00-36.png)
+<img src="/images/2023-05-26_14-00-36.png" alt="">
 
 <figcaption>
 
@@ -41,7 +41,7 @@ Group view after User (Sia) is deactivated
 
 <figure>
 
-![](/images/2023-05-26_14-01-07.png)
+<img src="/images/2023-05-26_14-01-07.png" alt="">
 
 <figcaption>
 

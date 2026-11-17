@@ -41,6 +41,6 @@ Salesforce's OmniStudio is a suite of tools that lets you quickly and efficientl
 
 **Author Bio** 
 
-![](/images/yr_RtVU7jPtAB41guJ3gFLXBGZfRlwwGzqyynk3g_FQqLRU6AY_Mom9YDsyr0PRJ3mEZCqaKJFnI7PTlD91XbbSZS-qFEY9-m-O88W9kz4SLGFHOO6lI4_jQIFAfSaulWs5_xDClsS0UvrUkHUbRKEH_0p2w_3gLLIE7BruT0LISzC1s-fmgnTcV7FKNgQ)
+<img src="/images/yr_RtVU7jPtAB41guJ3gFLXBGZfRlwwGzqyynk3g_FQqLRU6AY_Mom9YDsyr0PRJ3mEZCqaKJFnI7PTlD91XbbSZS-qFEY9-m-O88W9kz4SLGFHOO6lI4_jQIFAfSaulWs5_xDClsS0UvrUkHUbRKEH_0p2w_3gLLIE7BruT0LISzC1s-fmgnTcV7FKNgQ" alt="">
 
 _Julian Lankstead is a Salesforce Consultant and the Founder of [JulianLankstead.com](https://julianlankstead.com). He helps businesses increase revenue by providing strategies to improve business process efficiency. You can connect with him [here](https://julianlankstead.com)._

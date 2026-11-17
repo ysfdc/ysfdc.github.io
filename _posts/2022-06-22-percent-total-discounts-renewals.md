@@ -17,7 +17,7 @@ If you are doing discounts and you have your Renewal Pricing Method set to Uplif
 
 <figure>
 
-![](/images/2022-04-13_12-11-02.png)
+<img src="/images/2022-04-13_12-11-02.png" alt="">
 
 <figcaption>
 
@@ -29,7 +29,7 @@ Original Quote with Discount
 
 <figure>
 
-![](/images/2022-04-13_12-11-44.png)
+<img src="/images/2022-04-13_12-11-44.png" alt="">
 
 <figcaption>
 

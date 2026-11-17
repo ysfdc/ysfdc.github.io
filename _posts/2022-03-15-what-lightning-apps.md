@@ -11,7 +11,7 @@ Lightning Apps in Salesforce are a great tool to have at your disposal for givin
 
 As a quick reminder on how to create a Lightning App go to: Setup --> App Manager --> New Lightning App
 
-![](/images/2021-12-26_09-41-50.png)
+<img src="/images/2021-12-26_09-41-50.png" alt="">
 
 Here are all of the things you can control using a Lightning App:
 
@@ -19,7 +19,7 @@ Here are all of the things you can control using a Lightning App:
 
 <figure>
 
-![](/images/image.png)
+<img src="/images/image.png" alt="">
 
 <figcaption>
 
@@ -31,7 +31,7 @@ Decide if the user can modify or not
 
 <figure>
 
-![](/images/2021-12-26_09-44-15.png)
+<img src="/images/2021-12-26_09-44-15.png" alt="">
 
 <figcaption>
 
@@ -43,7 +43,7 @@ Select which Tabs should appear in the app
 
 <figure>
 
-![](/images/2021-12-26_10-19-09.png)
+<img src="/images/2021-12-26_10-19-09.png" alt="">
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Check out your App and see the Tabs in action
 
 <figure>
 
-![](/images/image-1.png)
+<img src="/images/image-1.png" alt="">
 
 <figcaption>
 
@@ -67,23 +67,23 @@ Defining the navigation style
 
 </figure>
 
-![](/images/2021-12-26_10-26-02.png)
+<img src="/images/2021-12-26_10-26-02.png" alt="">
 
 3\. Define if the app is for Phone, Desktop, or both (form factor)
 
-![](/images/image-2.png)
+<img src="/images/image-2.png" alt="">
 
 4\. Determine if you want a footer bar (Utility bar) and what you want on it
 
-![](/images/2021-12-26_09-42-59.png)
+<img src="/images/2021-12-26_09-42-59.png" alt="">
 
-![](/images/2021-12-26_09-43-40.png)
+<img src="/images/2021-12-26_09-43-40.png" alt="">
 
 5\. Control which profiles or permission sets have access to the App
 
 <figure>
 
-![](/images/2021-12-26_09-44-22.png)
+<img src="/images/2021-12-26_09-44-22.png" alt="">
 
 <figcaption>
 

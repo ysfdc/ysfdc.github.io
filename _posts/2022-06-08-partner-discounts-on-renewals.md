@@ -9,7 +9,7 @@ While some companies set their Partner Discounts and Distributor Discounts on th
 
 <figure>
 
-![](/images/2022-04-13_12-14-42.png)
+<img src="/images/2022-04-13_12-14-42.png" alt="">
 
 <figcaption>
 
@@ -21,7 +21,7 @@ Original Quote
 
 <figure>
 
-![](/images/2022-04-13_12-18-06.png)
+<img src="/images/2022-04-13_12-18-06.png" alt="">
 
 <figcaption>
 

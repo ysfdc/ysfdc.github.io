@@ -10,11 +10,11 @@ The Salesforce org you are working with might have more than one Experience, and
 
 Go to Setup --> Profiles --> Select the desired Profile and click Default Experience in the System section
 
-![](/images/2021-12-26_11-01-32.png)
+<img src="/images/2021-12-26_11-01-32.png" alt="">
 
 From here you will see a dropdown of any active Experience sites, click the one you want as the default and click save.
 
-![](/images/2021-12-26_11-01-52.png)
+<img src="/images/2021-12-26_11-01-52.png" alt="">
 
 Here's a word from the Salesforce [documentation](https://help.salesforce.com/s/articleView?id=sf.network_affinity.htm&type=5):
 

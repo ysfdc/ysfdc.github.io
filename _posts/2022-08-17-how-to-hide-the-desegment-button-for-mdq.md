@@ -17,18 +17,18 @@ STEPS:
 2. Add the field to the Line Editor Field Set on Quote  
     
 
-![](/images/2022-06-30_13-51-57.png)
+<img src="/images/2022-06-30_13-51-57.png" alt="">
 
 3. Update the picklist value for the Field field on the Custom Action Condition object  
     
 
-![](/images/2022-06-30_13-53-56.png)
+<img src="/images/2022-06-30_13-53-56.png" alt="">
 
 4. Find the Desegment Line Custom Action
 5. Create a Custom Action Condition to match as below using your field name  
     
 
-![](/images/2022-06-30_14-13-52.png)
+<img src="/images/2022-06-30_14-13-52.png" alt="">
 
 TESTING STEPS:
 
@@ -36,12 +36,12 @@ TESTING STEPS:
 2. Note that when the field is unchecked, the wand is not visible  
     
 
-![](/images/2022-06-30_13-57-43.png)
+<img src="/images/2022-06-30_13-57-43.png" alt="">
 
 3. Mark the checkbox field as TRUE and click Quick Save
 4. Note that the field is now visible  
     
 
-![](/images/2022-06-30_14-17-39.png)
+<img src="/images/2022-06-30_14-17-39.png" alt="">
 
 That's it! Now you have a way to ensure that the users don't accidentally desegment their lines.

@@ -13,12 +13,12 @@ Now for the steps:
 
 Go to the Contract that you want to cancel out and click the Amend button.  
 
-![](/images/2022-04-08_09-32-14.png)
+<img src="/images/2022-04-08_09-32-14.png" alt="">
 
 On the QLE, update the Quantity of every line to zero.  
 You may have difficulties doing this step due to quantity minimums that might be set through Features, Options, or Validation rules. Therefore, I would advise testing this out in the sandbox first and making the necessary adjustments to resolve this.  
 
-![](/images/2022-04-08_09-35-42.png)
+<img src="/images/2022-04-08_09-35-42.png" alt="">
 
 Ensure that the Start Date is set to the date these lines should end and do not touch the End Date.
 
@@ -28,7 +28,7 @@ After the contracting process is complete, you will see the negative lines on th
 
 <figure>
 
-![](/images/2022-04-08_09-37-46.png)
+<img src="/images/2022-04-08_09-37-46.png" alt="">
 
 <figcaption>
 
@@ -40,7 +40,7 @@ Negative Subscription Line
 
 <figure>
 
-![](/images/2022-04-08_09-38-02.png)
+<img src="/images/2022-04-08_09-38-02.png" alt="">
 
 <figcaption>
 

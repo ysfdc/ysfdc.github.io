@@ -9,7 +9,7 @@ If you are looking to have a product that has its price calculated by another pr
 
 First, on the Product record that will be the Percent of Total product, you will want to make sure the following fields are populated:
 
-![](/images/2022-04-12_11-28-44.png)
+<img src="/images/2022-04-12_11-28-44.png" alt="">
 
 1. Pricing Method - This should be List if it is a Subscription, it should be Percent of Total if this is not a Subscription
 2. Subscription Pricing - This should only be populated if this is a Subscription product and should be set to Percent of Total
@@ -26,6 +26,6 @@ Once you have the Percent of Total Product setup, you will need to update the pr
 
 Keep in mind that when you make a Percent of Total a Subscription product, it will prorate based on the term. This is regardless of your value is List or Net. In the case of List and a 36-month term, it will be the percentage of List price multiplied by three years; in the case of Net and a 36-month term, it will be the percentage of the Unit Price after discounts prorated for the three years.
 
-![](/images/2022-04-12_12-05-10.png)
+<img src="/images/2022-04-12_12-05-10.png" alt="">
 
 There are additional caveats to setting up an MDQ related Percent of Total product that I will cover in a separated post.

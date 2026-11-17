@@ -9,7 +9,7 @@ Canceling a Contract or churning a Contract in CPQ can mean different things dep
 
 To properly cancel a contract, you need to do an amendment action in which you zero out all of the Quote Lines on the Contract.
 
-![](/images/2022-04-08_09-35-42.png)
+<img src="/images/2022-04-08_09-35-42.png" alt="">
 
   
 Due to quantity minimums that might be set through Features, Options, or Validation rules, you may need to do some build to get around this, and therefore I would recommend testing this in the sandbox first.
@@ -24,7 +24,7 @@ Your Contract will end up with new negative lines for all items churned; however
 
 <figure>
 
-![](/images/2022-04-08_09-37-46.png)
+<img src="/images/2022-04-08_09-37-46.png" alt="">
 
 <figcaption>
 
@@ -39,7 +39,7 @@ The Subscription Lines will have a Terminated Date of the date you cancelled eve
 
 <figure>
 
-![](/images/2022-04-08_09-38-02.png)
+<img src="/images/2022-04-08_09-38-02.png" alt="">
 
 <figcaption>
 

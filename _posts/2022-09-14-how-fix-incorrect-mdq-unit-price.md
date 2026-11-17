@@ -13,13 +13,13 @@ Steps to recreate:
 
 1\. Check that the Product Option record that is the MDQ product has a Unit Price  
 
-![](/images/2022-07-06_14-08-39.png)
+<img src="/images/2022-07-06_14-08-39.png" alt="">
 
 2\. Create a quote with the product; you will see that the Option has the Unit Price from the previous step:
 
 <figure>
 
-![](/images/2022-07-06_14-12-52.png)
+<img src="/images/2022-07-06_14-12-52.png" alt="">
 
 <figcaption>
 
@@ -29,13 +29,13 @@ Steps to recreate:
 
 </figure>
 
-![](/images/2022-07-06_14-14-45.png)
+<img src="/images/2022-07-06_14-14-45.png" alt="">
 
 4\. Now desegment the line, and you will see the Unit Price is still retained:
 
 <figure>
 
-![](/images/2022-07-06_14-15-07.png)
+<img src="/images/2022-07-06_14-15-07.png" alt="">
 
 <figcaption>
 
@@ -45,10 +45,10 @@ Steps to recreate:
 
 </figure>
 
-![](/images/2022-07-06_14-15-26.png)
+<img src="/images/2022-07-06_14-15-26.png" alt="">
 
 6\. After you have clicked the wrench and saved it, the pricing will be reset back to the correct value:
 
-![](/images/2022-07-06_14-15-46.png)
+<img src="/images/2022-07-06_14-15-46.png" alt="">
 
 This is why your users need to be aware that desegment and resegment can impact pricing behavior. Check out my post on [hiding the desegment wand](https://sf9to5.com/2022/08/17/how-to-hide-the-desegment-button-for-mdq/).

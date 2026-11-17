@@ -25,7 +25,7 @@ The caveat to both options above has to do with the Contract's End Date vs. the 
 
 <figure>
 
-![](/images/2022-02-20_11-57-33.png)
+<img src="/images/2022-02-20_11-57-33.png" alt="">
 
 <figcaption>
 
@@ -37,7 +37,7 @@ Subscription Dates for the first option
 
 <figure>
 
-![](/images/2022-02-20_14-13-21.png)
+<img src="/images/2022-02-20_14-13-21.png" alt="">
 
 <figcaption>
 
@@ -49,7 +49,7 @@ Subscription Dates for the second option
 
 <figure>
 
-![](/images/2022-02-20_11-56-32-1.png)
+<img src="/images/2022-02-20_11-56-32-1.png" alt="">
 
 <figcaption>
 
@@ -70,7 +70,7 @@ So in my scenario above, for either option, since I had it set to the Latest End
 
 <figure>
 
-![](/images/2022-02-20_14-04-30.png)
+<img src="/images/2022-02-20_14-04-30.png" alt="">
 
 <figcaption>
 
@@ -82,7 +82,7 @@ Renewal Quote Dates
 
 <figure>
 
-![](/images/2022-02-20_14-07-52-1.png)
+<img src="/images/2022-02-20_14-07-52-1.png" alt="">
 
 <figcaption>
 
@@ -98,7 +98,7 @@ In this scenario, you will need to ensure that you have the End Date available e
 
 <figure>
 
-![](/images/2022-02-20_14-35-56.png)
+<img src="/images/2022-02-20_14-35-56.png" alt="">
 
 <figcaption>
 
@@ -112,7 +112,7 @@ Upon Renewal, the Quote will reflect the Lastest End Date + 1, as indicated by t
 
 <figure>
 
-![](/images/2022-02-20_14-38-13.png)
+<img src="/images/2022-02-20_14-38-13.png" alt="">
 
 <figcaption>
 

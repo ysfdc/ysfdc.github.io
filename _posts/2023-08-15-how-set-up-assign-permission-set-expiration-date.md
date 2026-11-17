@@ -10,25 +10,25 @@ It used to be that when you gave someone permission set but you only wanted them
 
 **Setup**:
 
-![](/images/2023-05-26_09-35-39.png)
+<img src="/images/2023-05-26_09-35-39.png" alt="">
 
 1. Go to Setup --> User Management Settings
 
 3. Make sure you have enabled the Expiration Dates setting
 
-![](/images/2023-05-26_09-37-52.png)
+<img src="/images/2023-05-26_09-37-52.png" alt="">
 
 1. Go to Permission Sets or Permission Set Groups and select the relevant one
 
 3. From here select Manage Assignments
 
-![](/images/2023-05-26_09-39-38.png)
+<img src="/images/2023-05-26_09-39-38.png" alt="">
 
 1. Check the User that you want to apply the edit to
 
 3. Click the Pencil to go to the Edit screen
 
-![](/images/2023-05-26_09-40-04.png)
+<img src="/images/2023-05-26_09-40-04.png" alt="">
 
 1. Select the length of time you want for the expiration
 

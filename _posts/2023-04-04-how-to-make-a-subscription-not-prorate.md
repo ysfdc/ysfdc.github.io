@@ -20,26 +20,26 @@ Price Rule Setup:
 
 - Create a price rule with the following setup (make sure to set the Calculator Evaluation Event). This rule will turn off the proration for calculating the price when in the QLE.
 
-![](/images/image-5.png)
+<img src="/images/image-5.png" alt="">
 
 - After you have the price rule for turning the proration off, we will need to setup the Price Conditions and the Price Action
 
 - For the Price Condition, I used a Product Code as my filter. However, if you forsee many products like that, it is best to create a custom field on the Product object and use that as the filter, instead of the Product Code in this example.
 
-![](/images/image-6.png)
+<img src="/images/image-6.png" alt="">
 
-![](/images/image-7.png)
+<img src="/images/image-7.png" alt="">
 
 Make sure in the Price Action (seen above) that the Value is left empty, as we are setting this field to blank.
 
 - Now we need to create the second Price Rule, designed to reset the value after the calculations are complete. This step is necessary so that when you create a Contract/Service Contract, it reads the Quote Line as a Subscription and creates the Subscription/Contract Line Item.
 
-![](/images/image-8.png)
+<img src="/images/image-8.png" alt="">
 
 - We are inverting what we did in the first rule for the Price Conditions and Action.
 
-![](/images/image-9.png)
+<img src="/images/image-9.png" alt="">
 
-![](/images/image-10.png)
+<img src="/images/image-10.png" alt="">
 
 Go ahead and make sure these are active rules, and then you can go ahead and test. You will see that regardless of the Subscription Term, the pricing of this product will not change. However, post-save, you will be able to see the Fixed Price back on the Quote Line, giving you a Subscription/Contract Line item.
