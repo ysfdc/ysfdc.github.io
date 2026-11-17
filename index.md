@@ -3,7 +3,7 @@ title: sf9to5 | Journey of a Salesforce Geek
 ---
 
 <div style="background-color: #fff3cd; border-left: 5px solid #ffc107; color: #333; padding: 14px 18px; margin: 16px 0 28px 0; border-radius: 4px;">
-  <strong>Note:</strong>
+  <strong>Note:</strong> I no longer maintain the sf9to5.com site as of 2027. This serves as an archive for all the content I published over the years.
 </div>
 
 <style>
