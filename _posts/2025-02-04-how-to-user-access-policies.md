@@ -15,19 +15,19 @@ Let's follow the steps to set this up using a basic test example.
 
 1. Ensure User Access Policies are enabled—go to User Management Settings and enable the two User Access Policies toggles.
 
-![](/images/screenshot-2024-08-02-at-10.00.04e280afam.png)
+<img src="/images/screenshot-2024-08-02-at-10.00.04e280afam.png" alt="">
 
 2\. After enabling, search for User Access Policies in the Search bar
 
-![](/images/screenshot-2024-08-02-at-10.11.06e280afam.png)
+<img src="/images/screenshot-2024-08-02-at-10.11.06e280afam.png" alt="">
 
 3\. Click New User Access Policy to create a new policy. The prompt will ask for a name and a priority order. This is not a priority order in the sense that it will run through multiple rules in the order specified; rather, the order is the process through which it will test the criteria; the first criteria to make a match will be the Policy to run. Only one policy will ever run.
 
-![](/images/screenshot-2024-08-02-at-10.11.53e280afam.png)
+<img src="/images/screenshot-2024-08-02-at-10.11.53e280afam.png" alt="">
 
 4\. Select Edit Critieria. This is where you will set up the logic for _when_ it should run and _what_ actions it should take.
 
-![](/images/image.png)
+<img src="/images/image.png" alt="">
 
 1. This is for setting a filter based on profile/role/group, etc. While it does have a red asterisk, it does not need to be populated. Note: If you populate this and want to delete it, you must start the rule _again. I am unsure why they do not have a None or a delete option._
 
@@ -39,11 +39,11 @@ Let's follow the steps to set this up using a basic test example.
 
 5\. Once the rule criteria and action are defined, there are two more steps to take. The first is setting up when the rule should automatically run. This is through the Automate Policy button. On the user record, you can select Create, Update, or both. Remember that once you have activated the rule, if you need to make further changes, you must first deactivate it.
 
-![](/images/image-1.png)
+<img src="/images/image-1.png" alt="">
 
 The last thing to do is decide whether you want to apply this immediately for users who may not have the current policy you want applied. If you click the Apply Policy button, you will be taken to a screen with a list of users who meet the criteria, and then you can select the users you want to apply it to.
 
-![](/images/image-2.png)
+<img src="/images/image-2.png" alt="">
 
 That's all there is to it! Not only does this save time, but it also reduces the risk of human error—no more missing permissions or overlooked group memberships. And if you're ever unsure whether all users have the correct access, the Policy system lets you run a one-time application to ensure everything is in place.
 

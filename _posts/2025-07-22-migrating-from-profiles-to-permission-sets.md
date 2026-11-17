@@ -39,7 +39,7 @@ Migrating to the [Permission Set first security model](https://admin.salesforce.
 
 1. Audit Your Profiles: Start by auditing all existing Profiles. Identify which permissions are assigned and break them down into modular Permission Sets. Some tools can assist with this process, including the [Profile to Permission set converter](https://help.salesforce.com/s/articleView?id=sf.perm_uapa_convert_profile_to_a_permission_set.htm&type=5) and the now GA function to see what is included in a Profile or Permission set.
 
-![](/images/image-9.png)
+<img src="/images/image-9.png" alt="">
 
 1. **Group Permissions**: Use Permission Set Groups to bundle permissions logically. Think about your organization's roles and responsibilities and create group sets accordingly, simplifying the assignment process.
 

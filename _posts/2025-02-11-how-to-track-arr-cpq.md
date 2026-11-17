@@ -13,7 +13,7 @@ As a reminder, in case you haven't read the other article, ARR is annualized rec
 
 Once your products are set up as Subscriptions, we can examine what defines ARR from a formula perspective.
 
-![](/images/arr-formula.png)
+<img src="/images/arr-formula.png" alt="">
 
 Let's break this down:
 
@@ -29,7 +29,7 @@ In general, if your default term for products is 12 months, this formula can be 
 
 Once you have this formula locked down, you can collect the data. But first, let's define the fields we will be entering data into.
 
-![](/images/image-4.png)
+<img src="/images/image-4.png" alt="">
 
 New - This means essentially net new business or net new customers.
 

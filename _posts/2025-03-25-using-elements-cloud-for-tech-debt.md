@@ -30,7 +30,7 @@ Dependency Trees: These views show all the dependencies in a tree or grid view o
 
 <figure>
 
-![](/images/image.png)
+<img src="/images/image.png" alt="">
 
 <figcaption>
 
@@ -42,7 +42,7 @@ Grid View
 
 <figure>
 
-![](/images/image-1.png)
+<img src="/images/image-1.png" alt="">
 
 <figcaption>
 
@@ -58,23 +58,23 @@ Custom Metadata Views: This is a way to create a custom view within Elements. Th
   
 First, click the Metadata Views from the menu bar to create a custom metadata view.
 
-![](/images/image-2.png)
+<img src="/images/image-2.png" alt="">
 
 Next, you will get a pop-up, and you just need to follow the onscreen prompts. My example shows all active workflow rules and process builders in the system. Your fields and filters will vary based on your desired outcome.
 
-![](/images/image-4.png)
+<img src="/images/image-4.png" alt="">
 
-![](/images/image-3.png)
+<img src="/images/image-3.png" alt="">
 
-![](/images/image-8.png)
+<img src="/images/image-8.png" alt="">
 
-![](/images/image-7.png)
+<img src="/images/image-7.png" alt="">
 
 Reports: You can run different reports in Elements to get details about the metadata broken out neatly into a table that can be exported to Excel.
 
-![](/images/image-10.png)
+<img src="/images/image-10.png" alt="">
 
   
 Field data usage: This is my favorite report as it tells you how much a field is populated, whether it is custom or standard, and whether it has any dependencies. Typically, I take this out and [pivot](https://sf9to5.com/2019/04/30/profile-auditing-guide-excel-pivot-tables/) on the number of dependencies. Additionally, if you combine this with the Field Access report, you can get a deep understanding of how much has been populated and who has access to it. I have found that the percentage populated doesn't tell the [whole story](https://sf9to5.com/2019/06/10/declutter-fields-snapshot-metazoa/).
 
-![](/images/image-11.png)
+<img src="/images/image-11.png" alt="">

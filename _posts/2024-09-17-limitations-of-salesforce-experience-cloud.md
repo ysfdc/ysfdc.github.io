@@ -23,7 +23,7 @@ You might remember it by its previous name, **Community Cloud**. Nevertheless, E
 
 - Websites
 
-![](/images/image1.png)
+<img src="/images/image1.png" alt="">
 
 These web applications can engage with customers, leads, partners, or employees whenever they interact with your business. As customer standards have increased over the years regarding what they expect from business interactions, it’s important to make the most of your Cloud to produce the best digital experience in Salesforce. 
 
@@ -113,7 +113,7 @@ However, this is an ongoing task, so prepare for it when establishing goals, bud
 
 If Experience Cloud's limitations prevent you from giving customers and employees what they need, you could elevate your CRM platform with a third-party application. We recommend [Titan Web](https://titandxp.com/salesforce/cloud-experiences/)! This **no-code software** can help designers build websites, portals, forms, or surveys on one platform to connect directly with customers, employees, and partners. 
 
-![](/images/image2-1.png)
+<img src="/images/image2-1.png" alt="">
 
 It also seamlessly integrates with Salesforce, using bidirectional data flows to your projects so you can rapidly perform business processes. Furthermore, Titan Web maintains and keeps your customer and business data in Salesforce secure, as it complies with leading frameworks like HIPAA, SOC 2, ISO, and GDPR. Whether your business is large or small, we suggest you check out Titan Web. 
 

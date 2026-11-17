@@ -19,12 +19,12 @@ Since its launch in March 2025, AgentExchange has positioned itself as a central
 
 At the time of launch, specifically during the [AgentExchange snapshot done on March 4, 2025](https://www.sfapps.info/top-agentexchange-apps-march-2025/), the marketplace featured 55 apps developed by 50 unique providers. The top three business categories were Sales (18 apps), Productivity (10 apps), and Finance (7 apps), highlighting the platform’s strong focus on revenue acceleration, workflow efficiency, and financial connectivity.
 
-![](/images/image.png)
+<img src="/images/image.png" alt="">
 
   
 Another snapshot of the marketplace, [AgentExchange snapshot done on October 8, 2025](https://www.sfapps.info/state-of-agentexchange-semiannual-analysis/), revealed 122 unique apps from 102 unique developers, showing that the market more than doubled in six months (121.82% growth in apps and 104.00% growth in developers). Key business categories also shifted: Sales led with 49 apps, Productivity followed with 22 apps, and Analytics moved into third place with 12 apps.
 
-### ![](/images/c996e977-73fc-4219-bb88-25b3d709bd42)  
+### <img src="/images/c996e977-73fc-4219-bb88-25b3d709bd42" alt="">  
   
 Leading Developers
 

@@ -38,7 +38,7 @@ For this scenario:
 
 - Above them, there’s a **Sales Manager** role who oversees both teams.
 
-![](/images/image-1.png)
+<img src="/images/image-1.png" alt="">
 
 Let's say "Big Tech Co." is an opportunity owned by an Enterprise Sales rep.
 
@@ -50,7 +50,7 @@ Let's say "Big Tech Co." is an opportunity owned by an Enterprise Sales rep.
 
 - This also assumes that the Role setup for opportunity access is set to the most strict version; otherwise, account access can also be involved.
 
-![](images/image.png)
+<img src="/images/image.png" alt="">
 
 In short, roles control access up the hierarchy but don't allow lateral access across different teams.
 
@@ -98,7 +98,7 @@ Salesforce makes this easy with the **"Sharing" button** and the **"View All" ac
     
     - This shows who can see that record and how, including which users have access via Roles, Profiles, Sharing Rules, or manual sharing.
 
-![](images/image-3.png)
+<img src="/images/image-3.png" alt="">
 
 This helps you quickly identify how access is granted and troubleshoot any permission issues in record visibility.
 

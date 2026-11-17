@@ -11,11 +11,11 @@ First, it is important to note that this only works if you contract directly fro
 
 For the setup, you must ensure that the field "Separate Contract" is on the Quote Line Group Object.
 
-![](/images/screenshot-2024-01-09-at-7.39.14-pm.png)
+<img src="/images/screenshot-2024-01-09-at-7.39.14-pm.png" alt="">
 
 Next, make sure you add the field to the Quote Line Group page layout.
 
-![](/images/screenshot-2024-01-09-at-7.41.07-pm.png)
+<img src="/images/screenshot-2024-01-09-at-7.41.07-pm.png" alt="">
 
 To utilize the field, create a quote with at least two groups.
 

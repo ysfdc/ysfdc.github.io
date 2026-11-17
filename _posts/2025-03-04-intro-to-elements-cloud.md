@@ -23,23 +23,23 @@ So, how can Elements.Cloud be useful in real-world scenarios? Let’s explore a 
 
 ### Walking Through the Key Screens
 
-![](/images/image-3.png)
+<img src="/images/image-3.png" alt="">
 
 1\. This is your home screen that allows you to quickly get to the Salesforce Orgs.
 
-![](/images/image-5.png)
+<img src="/images/image-5.png" alt="">
 
 2\. This is a list of your Salesforce orgs. It shows the last time they synced and whether any failures occurred.
 
-![](/images/image-6.png)
+<img src="/images/image-6.png" alt="">
 
 3\. This is the initial view of all of your metadata. You can search any metadata type by Label or API name from here. You can also click through the drop-down menus to find what you want.
 
-![](/images/image-7.png)
+<img src="/images/image-7.png" alt="">
 
 4\. The right-hand panel shows information about the field, including what type of metadata it is, whether it's active (when relevant), and even the actual formula (when relevant).
 
-![](/images/image-8.png)
+<img src="/images/image-8.png" alt="">
 
 5\. When you click into the tree node, you can see where the metadata is referenced, what uses it, and who uses it. This becomes extremely helpful in determining metadata's importance.
 

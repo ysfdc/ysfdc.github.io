@@ -80,13 +80,13 @@ Before importing, ensure the data is free from errors, duplicates, and inconsist
 
 - Removing duplicates: Salesforce can create issues with duplicated records, so it's essential to remove them beforehand. Use Excel’s de-duplication features or other tools to identify and remove duplicates.
 
-![](/images/AD_4nXfIffl1cusFBBvz8jnzW5FPpmMsEwonBvPwWuLm-XVcV2Vjah7I24ensH31eKmFmD2yKDHvPcBYRHPTihhPjlZZlOZGtLygqnwuf3BnsAY87C7Gs6xyYa7T3neI-3Ou88wL5pUa4JtRhtuX2sOtrxWDca6Zx4WNaHnWSF5MK2Rel9ndkxmcLNI)
+<img src="/images/AD_4nXfIffl1cusFBBvz8jnzW5FPpmMsEwonBvPwWuLm-XVcV2Vjah7I24ensH31eKmFmD2yKDHvPcBYRHPTihhPjlZZlOZGtLygqnwuf3BnsAY87C7Gs6xyYa7T3neI-3Ou88wL5pUa4JtRhtuX2sOtrxWDca6Zx4WNaHnWSF5MK2Rel9ndkxmcLNI" alt="">
 
 - **Correcting inconsistencies**: Ensure uniformity in how data is formatted. For example, check that phone numbers follow the same format and that names are standardized (e.g., using full names or initials).
 
 - **Validating data**: Ensure that the data you’re importing adheres to the field types in Salesforce. For example, if importing into a numeric field, ensure the data doesn't contain text characters.
 
-![](/images/AD_4nXd6B86N2gdVGVVPRA5ANxWE4Xi_h5d_TzIMpv591kX06nSEVUzm7pXOHiTVWO0cAfkI38AqdN9n67a141NDQ_4JHwce63TMnQnFNL3_AyLzEhbv3QY9slPGUjlOicA3iBhgtY68QC2uSd9IV4gNI-DM0L2gPrH_hDTpvkVm_v36-LP7qtptOx4)
+<img src="/images/AD_4nXd6B86N2gdVGVVPRA5ANxWE4Xi_h5d_TzIMpv591kX06nSEVUzm7pXOHiTVWO0cAfkI38AqdN9n67a141NDQ_4JHwce63TMnQnFNL3_AyLzEhbv3QY9slPGUjlOicA3iBhgtY68QC2uSd9IV4gNI-DM0L2gPrH_hDTpvkVm_v36-LP7qtptOx4" alt="">
 
 - **Handling missing fields**: If required Salesforce fields are missing in your import data, be sure to fill them in. Missing data can cause validation errors or leave records incomplete.
 
@@ -100,7 +100,7 @@ Before importing, ensure your data fields align with the fields in Salesforce. T
 
 - **Ensure field consistency**: For example, date fields in your data follow the required Salesforce format (e.g., YYYY-MM-DD). If your data format doesn’t match, your records may be rejected.
 
-![](/images/AD_4nXcdfow2cpqim0802-64aliHyvbL3TMA-1c4-bjTB8CapeQLAon1mla8HOyDEKicckCZNwPf9JTbB3AGbbd77RvdyqYONWeK33tiftBK0x_zjpthvS3gdah9byJ7sOoN7g1cBv2ExLUCx3zT1psVjKxJ5pTW5jUsuiVl6aacXEQM4krMu1UZyA)
+<img src="/images/AD_4nXcdfow2cpqim0802-64aliHyvbL3TMA-1c4-bjTB8CapeQLAon1mla8HOyDEKicckCZNwPf9JTbB3AGbbd77RvdyqYONWeK33tiftBK0x_zjpthvS3gdah9byJ7sOoN7g1cBv2ExLUCx3zT1psVjKxJ5pTW5jUsuiVl6aacXEQM4krMu1UZyA" alt="">
 
 **Example:** If importing lead records into Salesforce, ensure that fields like “Lead Source” or “Industry” match Salesforce’s existing field types and picklist values. Customizing or creating new fields in Salesforce might be necessary to accommodate all data.
 
@@ -116,7 +116,7 @@ Validation rules in Salesforce enforce business logic, ensuring that specific cr
 
 As mentioned, Salesforce’s native tools, like Data Import Wizard and Data Loader, only support CSV files. If you’re working with more complex data structures that require JSON or NDJSON formats, using a tool like Sliced Bread ETL will ensure proper data handling without the risk of file format incompatibility.
 
-![](/images/AD_4nXdmpvb-XJzifzEdOPHsN0k-au_8bItyFwMe515TEzCuHFnoeQSE5K-lPHFXHlCMlN9dKctD93EdopAGmGAMwb6DkUwSFKZhqqRWDaIDP9oC_q7crxlItOHSxH2fy4kpAj58-v-WVUJL6A8pwvR8otGBWetyhPsDMXiuKl5xiYv8zT5Q9Rr8rRA)
+<img src="/images/AD_4nXdmpvb-XJzifzEdOPHsN0k-au_8bItyFwMe515TEzCuHFnoeQSE5K-lPHFXHlCMlN9dKctD93EdopAGmGAMwb6DkUwSFKZhqqRWDaIDP9oC_q7crxlItOHSxH2fy4kpAj58-v-WVUJL6A8pwvR8otGBWetyhPsDMXiuKl5xiYv8zT5Q9Rr8rRA" alt="">
 
 ### 5\. Run Test Imports
 
@@ -142,7 +142,7 @@ Choosing the right tool ensures a smooth, efficient, and error-free process when
 
 ### 1\. Data Import Wizard
 
-![](/images/AD_4nXcXXITO0wVf78If5OgeufabMcd3U0Fv4KrCp3a3JSY4Od0IbmygGs6nP9bpNAEF1_f0v2H2pSC4fMoFRNRh1rwzqL6q6OtnJbTDqgPWy-l5eE5CAIJZ-mNKUVFMzsUnO2Fv0D74zNrLNRYK_68AHl871eBRT_ko8fBoa0Vewepp6XC735rwqPI)
+<img src="/images/AD_4nXcXXITO0wVf78If5OgeufabMcd3U0Fv4KrCp3a3JSY4Od0IbmygGs6nP9bpNAEF1_f0v2H2pSC4fMoFRNRh1rwzqL6q6OtnJbTDqgPWy-l5eE5CAIJZ-mNKUVFMzsUnO2Fv0D74zNrLNRYK_68AHl871eBRT_ko8fBoa0Vewepp6XC735rwqPI" alt="">
 
 The **Data Import Wizard** is Salesforce’s entry-level import tool, designed for simple, smaller imports. It’s an excellent option for users with no technical background who need to perform straightforward imports for standard or custom objects.
 
@@ -162,7 +162,7 @@ The **Data Import Wizard** is Salesforce’s entry-level import tool, designed f
 
 ### 2\. Data Loader
 
-![](/images/AD_4nXcXXV6tN7zTBroqe7EATf4B-ZhiQetSByXas_9HZb2V6UciCHpLc8n-N5e2F57fTxroK5xMUorOVK0z5m_r5eMGBuM3TRx6a36dUZJNHHjRbKzO8LP_uaVibtg3GHZ88CO349AkwwsX5ASbFRwa8fpXkVjCflCS6qhI0yl02qx6MH15Rs0NVO8)
+<img src="/images/AD_4nXcXXV6tN7zTBroqe7EATf4B-ZhiQetSByXas_9HZb2V6UciCHpLc8n-N5e2F57fTxroK5xMUorOVK0z5m_r5eMGBuM3TRx6a36dUZJNHHjRbKzO8LP_uaVibtg3GHZ88CO349AkwwsX5ASbFRwa8fpXkVjCflCS6qhI0yl02qx6MH15Rs0NVO8" alt="">
 
 The Salesforce Data Loader is a more advanced tool for larger and more complex imports. As a desktop application, it supports up to 5 million records and allows users to insert, update, delete, and export data.
 
@@ -180,7 +180,7 @@ The Salesforce Data Loader is a more advanced tool for larger and more complex i
 
 ### 3\. Sliced Bread ETL 
 
-![](/images/AD_4nXfrPw5yTrYQz20zXnAyVO6lPRQpsBvQU3IvCx8WKXKRI2wN8Epyq7Xvlyfr3qwsyXKtUVhjCby8JQmBDdqgW8kSp82VASWwMw36OQ8qpCNrLp5dsOH8Rh3ha9OHyfZ4K0S91IWYCGKnrzM7I-DX4eV5EdAsQPGz6WaZiv3tB_rs_sfZnTbza-Q)
+<img src="/images/AD_4nXfrPw5yTrYQz20zXnAyVO6lPRQpsBvQU3IvCx8WKXKRI2wN8Epyq7Xvlyfr3qwsyXKtUVhjCby8JQmBDdqgW8kSp82VASWwMw36OQ8qpCNrLp5dsOH8Rh3ha9OHyfZ4K0S91IWYCGKnrzM7I-DX4eV5EdAsQPGz6WaZiv3tB_rs_sfZnTbza-Q" alt="">
 
 Sliced Bread ETL is the recommended solution for businesses handling large, complex datasets. It supports multiple file formats (CSV, JSON, and NDJSON), advanced field mapping, and large-scale operations, making it ideal for businesses that need to import structured data or process real-time updates.
 

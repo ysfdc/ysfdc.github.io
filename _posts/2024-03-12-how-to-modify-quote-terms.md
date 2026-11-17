@@ -9,19 +9,19 @@ The specific action of modifying Quote Terms within a quote document is a crucia
 
 By integrating the Modify Quote Terms button into the Quote layout, users can navigate to a comprehensive list of all applicable Quote Terms for a specific quote with just a click. This accessibility ensures that users can quickly locate and assess the relevant terms, facilitating efficient modification processes.
 
-![](/images/screenshot-2024-01-09-at-8.44.49-pm.png)
+<img src="/images/screenshot-2024-01-09-at-8.44.49-pm.png" alt="">
 
 Upon entering the Modify Quote Terms page, users encounter a user-friendly interface that visually distinguishes editable Quote Terms through a distinct pencil icon, providing clear indication and seamless navigation for making necessary adjustments. Furthermore, the ability to promptly save the modifications enhances the workflow, assuring that the updated terms reflect the latest negotiations and agreements.
 
-![](/images/screenshot-2024-01-09-at-8.45.06-pm.png)
+<img src="/images/screenshot-2024-01-09-at-8.45.06-pm.png" alt="">
 
 In addition, incorporating a "Modified" tag alongside the edited Quote Terms helps maintain transparency and accountability within the document. This labeling mechanism serves as a clear indicator to all stakeholders that particular terms have been altered, thereby avoiding any potential misinterpretations during subsequent reviews or negotiations.
 
-![](/images/screenshot-2024-01-09-at-8.45.18-pm.png)
+<img src="/images/screenshot-2024-01-09-at-8.45.18-pm.png" alt="">
 
 <figure>
 
-![](/images/screenshot-2024-01-09-at-8.45.37-pm.png)
+<img src="/images/screenshot-2024-01-09-at-8.45.37-pm.png" alt="">
 
 <figcaption>
 
