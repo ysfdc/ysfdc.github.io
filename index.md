@@ -1,11 +1,9 @@
 ---
-title: sf9to5.com archive
+title: sf9to5 | Journey of a Salesforce Geek
 ---
 
-# sf9to5.com archive
-
 <div style="background-color: #fff3cd; border-left: 5px solid #ffc107; color: #333; padding: 14px 18px; margin: 16px 0 28px 0; border-radius: 4px;">
-  <strong>Note:</strong> sf9to5.com archive
+  <strong>Note:</strong>
 </div>
 
 <style>
