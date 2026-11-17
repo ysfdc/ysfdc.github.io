@@ -38,7 +38,7 @@ For this scenario:
 
 - Above them, there’s a **Sales Manager** role who oversees both teams.
 
-![](images/image-1.png)
+![](/images/image-1.png)
 
 Let's say "Big Tech Co." is an opportunity owned by an Enterprise Sales rep.
 
